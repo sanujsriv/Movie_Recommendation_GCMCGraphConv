@@ -1,6 +1,9 @@
 # Movie_Recommendation_GCMCGraphConv
 This project was a part of a course - Movie_Recommendation_GCMCGraphConv
 
+# ACC:
+Best Test RMSE=2.9494
+
 # Model Architecture, training samples & accuracy 
 ```
 All rating pairs : 100000
